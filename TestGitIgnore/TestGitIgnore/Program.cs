@@ -12,6 +12,8 @@ namespace TestGitIgnore
         {
 
             //Testing Git Ignore file
+
+            //New changes
         }
     }
 }
